@@ -1,8 +1,17 @@
 aid: duetto-research
 name: Duetto Research
-description: Duetto Research is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Duetto Research is a hospitality technology company whose cloud platform, marketed as Duetto,
+  delivers a Revenue & Profit Operating System (RP-OS) for hotels, casinos, and resorts. The
+  platform pairs real-time dynamic pricing, demand forecasting, group and block business
+  management, and profitability benchmarking so revenue teams can optimize rates and total
+  property profit across more than 20,000 properties in over 100 countries. Its marquee products
+  include GameChanger (dynamic pricing and rate optimization), ScoreBoard (forecasting and
+  reporting), BlockBuster (group business), Advance (AI-driven rate recommendations), GameTime
+  (select-service revenue management), and HotStats (profitability benchmarking). Duetto connects
+  with the property management systems, booking engines, and channel managers hotels already use
+  through a large partner-integration ecosystem rather than a self-serve public developer API.
+  Backed by Battery Ventures; surfaced into the API Evangelist network as a portfolio lead.
 url: https://raw.githubusercontent.com/api-evangelist/duetto-research/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +19,61 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Hospitality
+- Hotels
+- Revenue Management
+- Pricing
+- Forecasting
+- Travel
+- SaaS
+- Casinos
+- Analytics
 apis: []
+common:
+- type: DomainSecurity
+  url: security/duetto-research-domain-security.yml
+- type: Website
+  url: https://www.duettocloud.com/
+- type: Support
+  url: https://www.duettocloud.com/customer-support
+- type: Blog
+  url: https://www.duettocloud.com/en-us/library
+- type: Integrations
+  url: https://www.duettocloud.com/integrations
+- type: SignUp
+  url: https://www.duettocloud.com/en-us/demo
+- type: TermsOfService
+  url: https://www.duettocloud.com/legal/terms
+- type: PrivacyPolicy
+  url: https://www.duettocloud.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/duettoresearch
+- type: WellKnown
+  url: well-known/duetto-research-well-known.yml
+image: https://www.duettocloud.com/hubfs/duetto-logo.svg
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
