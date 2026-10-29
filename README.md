@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Duetto Research is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Duetto Research is a hospitality technology company whose cloud platform, marketed as Duetto, delivers a Revenue & Profit Operating System (RP-OS) for hotels, casinos, and resorts. The platform pairs real-time dynamic pricing, demand forecasting, group and block business management, and profitability benchmarking so revenue teams can optimize rates and total property profit across more than 20,000 properties in over 100 countries. Its marquee products include GameChanger (dynamic pricing and rate optimization), ScoreBoard (forecasting and reporting), BlockBuster (group business), Advance (AI-driven rate recommendations), GameTime (select-service revenue management), and HotStats (profitability benchmarking). Duetto connects with the property management systems, booking engines, and channel managers hotels already use through a large partner-integration ecosystem rather than a self-serve public developer API. Backed by Battery Ventures; surfaced into the API Evangelist network as a portfolio lead.
 
-Backed by: battery-ventures
+**Areas:** Company · Hospitality · Hotels · Revenue Management · Pricing · Forecasting · Travel · Software-as-a-Service · Casinos · Analytics
+
+## Duetto Research on APIs.io
+
+Everything profiled for Duetto Research is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/duetto-research/](https://apis.io/providers/duetto-research/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Duetto Research Domain Security](https://apis.io/security/duetto-research/duetto-research-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.duettocloud.com/)
+- [Sign up](https://www.duettocloud.com/en-us/demo)
+- [Support](https://www.duettocloud.com/customer-support)
+- [Blog](https://www.duettocloud.com/en-us/library)
+- [Terms of service](https://www.duettocloud.com/legal/terms)
+- [Privacy policy](https://www.duettocloud.com/privacy-policy)
+- [GitHub](https://github.com/duettoresearch)
+
+## API Evangelist rating
+
+**Kin Score 13.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/duetto-research/](https://apis.io/providers/duetto-research/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Duetto Research: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/duetto-research/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
